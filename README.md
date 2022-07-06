@@ -1,6 +1,6 @@
 [![Hexlet chat](http://slack-ru.hexlet.io/badge.svg)](http://slack-ru.hexlet.io)
 
-# Good conversation archives from the Hexlet slack
+# Архивы хороших бесед из Слака Хекслета
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/utm_source=github&utm_medium=link&utm_campaign=hexlet-slack-archive)
 
@@ -10,8 +10,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 ##
 
-The [Hexlet slack chat](http://slack-ru.hexlet.io/) has interesting and useful conversations every day. We keep the best of them in the [wiki of this repository](https://github.com/Hexlet/hexlet-slack-archive/wiki).
+В [слак-чате Хекслета](http://slack-ru.hexlet.io/) каждый день проходят интересные и полезные беседы. В [вики этого репозитория](https://github.com/Hexlet/hexlet-slack-archive/wiki) мы сохраняем лучшие из них.
 
-Edits and additions are welcome.
+Правки и добавления приветствуются.
 
->When adding a talk to the archive - specify the date in the title of the talk in the format *[yyyyy MM dd]*, for example: `[2016 01 12] All about Erlang
+>При добавлении беседы в архив - указывайте дату в заголовке беседы в формате *[yyyy MM dd]*, например: `[2016 01 12] Все об Erlang`
