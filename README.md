@@ -10,7 +10,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 ##
 
-В [слак-чате Хекслета](http://slack-ru.hexlet.io/) каждый день проходят интересные и полезные беседы. В [вики этого репозитория](https://github.com/Hexlet/hexlet-slack-archive/wiki) мы сохраняем лучшие из них.
+В [чате комьюнити Хекслета](https://t.me/hexletcommunity) каждый день проходят интересные и полезные беседы. В [вики этого репозитория](https://github.com/Hexlet/hexlet-slack-archive/wiki) мы сохраняем лучшие из них.
 
 Правки и добавления приветствуются.
 
